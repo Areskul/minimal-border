@@ -1,0 +1,7 @@
+@mixin generate-variable($name, $value) {
+  --#{$name}: #{$value};
+}
+:root {
+  @include generate-variable("border-radius", "10px");
+  @include generate-variable("border-width", "1px");
+}

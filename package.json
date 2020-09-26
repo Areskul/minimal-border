@@ -1,0 +1,9 @@
+{
+  "name": "@areskul/minimal-border",
+  "version": "1.0.0",
+  "private": false,
+  "main": "elevation.scss",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
