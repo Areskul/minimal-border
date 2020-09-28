@@ -1,1 +1,1 @@
-declare module "minimal-border";
+declare module "@areskul/minimal-border";
