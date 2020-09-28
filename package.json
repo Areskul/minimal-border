@@ -1,8 +1,12 @@
 {
   "name": "@areskul/minimal-border",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "private": false,
-  "main": "elevation.scss",
+  "main": "border.js",
+  "files": [
+    "types/*.d.ts"
+  ],
+  "module": "border.js",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   }
